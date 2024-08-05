@@ -44,3 +44,9 @@ Os cenários e casos de teste foram documentados na seguinte planilha do Google 
 
 [Link para a Planilha de Casos de Teste](https://docs.google.com/spreadsheets/d/14Je_anZR_5CTuB_8II4rlKGbgoi3i_cJEZMoeFrZCx0/edit?gid=0#gid=0)
 
+### Evidências
+
+As evidências do teste foram geradas em formato MP4 e armazenadas no drive:
+
+[Link para as evidências no drive](https://drive.google.com/drive/folders/1reR5ii-lxPSF4Etpn-J8TpVq6kA0Z-sl?usp=drive_link)
+
